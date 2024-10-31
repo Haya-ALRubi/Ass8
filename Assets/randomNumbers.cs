@@ -18,7 +18,7 @@ public class randomNumbers : MonoBehaviour
             {
                 break;
             }
-            Debug.Log(random);
+            else Debug.Log(random);
         }
 
     }
